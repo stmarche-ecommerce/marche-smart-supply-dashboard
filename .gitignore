@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+*.py
 
 # testing
 /coverage
@@ -32,6 +33,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+.vscode
 
 # typescript
 *.tsbuildinfo
